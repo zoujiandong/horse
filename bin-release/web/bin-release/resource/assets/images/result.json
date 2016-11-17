@@ -1,0 +1,13 @@
+{"file":"result.png","frames":{
+"first":{"x":867,"y":345,"w":81,"h":42,"offX":0,"offY":0,"sourceW":81,"sourceH":42},
+"second":{"x":950,"y":345,"w":70,"h":32,"offX":0,"offY":0,"sourceW":70,"sourceH":32},
+"third":{"x":950,"y":379,"w":56,"h":28,"offX":0,"offY":0,"sourceW":56,"sourceH":28},
+"resultBG":{"x":1,"y":1,"w":644,"h":397,"offX":0,"offY":0,"sourceW":644,"sourceH":397},
+"horsePic1":{"x":757,"y":173,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic2":{"x":867,"y":1,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic3":{"x":757,"y":345,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic4":{"x":647,"y":345,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic5":{"x":647,"y":173,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic6":{"x":867,"y":173,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic7":{"x":757,"y":1,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170},
+"horsePic8":{"x":647,"y":1,"w":108,"h":170,"offX":0,"offY":0,"sourceW":108,"sourceH":170}}}

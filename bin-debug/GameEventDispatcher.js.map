@@ -1,0 +1,1 @@
+{"version":3,"file":"GameEventDispatcher.js","sourceRoot":"","sources":["../src/GameEventDispatcher.ts"],"names":["GameEventDispatcher","GameEventDispatcher.constructor"],"mappings":"AAAA;;;;GAIG;AACH;IAAkCA,uCAAqBA;IAEtDA;QAEOC,iBAAOA,CAACA;IACfA,CAACA;;IACFD,0BAACA;AAADA,CAACA,AAND,EAAkC,KAAK,CAAC,eAAe,EAMtD;oBANK,mBAAmB;AAMxB"}
